@@ -8,7 +8,7 @@
 set -x
 
 
-
+# 根据登录返回的token进行修改
 token1="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc4NDMxOTIsInVzZXJpZCI6MSwidXNlcm5hbWUiOiJqb2huIn0.F8JdDOfmHwL-Z7TnaYBnp5fpaEW-Vn1obP4SALwA52o"
 token2="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc4NDMxOTIsInVzZXJpZCI6MiwidXNlcm5hbWUiOiJ0b20ifQ.ESH5xGXIyjPIF3lQHvpzl5faOIgwIYx9E4PbSn6Gh38"
 

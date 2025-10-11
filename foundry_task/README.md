@@ -32,7 +32,7 @@ forge test --gas-report
 <div align="center">
   <img src="gas_report.png" alt="系统架构图" width="500" />
   <br>
-  <em>图1: 系统架构图</em>
+  <em>图: GAS对比图</em>
 </div>
 
 #### 遗留问题
